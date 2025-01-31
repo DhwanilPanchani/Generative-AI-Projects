@@ -1,4 +1,4 @@
-# Fine-Tuning CLIP and Diffusion Model for Image Captioning and Generation
+# Fine-Tuning CLIP and Diffusion Model for Image Generation
 
 This combined documentation covers the implementation of fine-tuning CLIP for CIFAR-10 and Flickr8k datasets and using a latent diffusion model to generate images from text.
 
